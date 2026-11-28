@@ -1,1 +1,7 @@
+{
+  "name": "Eazetrades Marketplace",
+  "description": "Eazetrades product detail and curated fashion, audio, and lifestyle marketplace in Lagos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
 
